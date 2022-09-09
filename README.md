@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Isaiah Peralta. 
-I am currently a sophomore at the University of Rhode Island. 
-I'm currently learning about data structures and abstractions and some web development. 
-Fun fact: I really love to play volleyball!
+### My name is Isaiah Peralta. 
+### I am currently a sophomore at the University of Rhode Island. 
+### I'm currently learning about data structures and abstractions and some web development. 
+### Fun fact: I really love to play volleyball!
 
 <!--
 **iperalta7/iperalta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
