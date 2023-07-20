@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaiah Peralta</h1>
 <h3 align="center">A passionate student developer in the US</h3>
 
-- 🌱 I’m currently learning **Computer Organization, Software Engineering, Secure Engineering, Web Development** I hope to become a C++ master, but that might take me to the dark side. 
+- 🌱 I’m currently learning **Computer Organization, Software Engineering, Secure Engineering, Web Development**. I hope to become a C++ master, but that might take me to the dark side. 
 
 - 📫 How to reach me **iperalta@uri.edu**
 
