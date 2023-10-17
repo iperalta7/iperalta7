@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaiah Peralta</h1>
 <h3 align="center">A passionate student developer in the US</h3>
 
-- 🌱 I’m currently focusing on **Software Engineering and Cybersecurity **.
+- 🌱 I’m currently focusing on **Software Engineering and Cybersecurity**.
 
 - 📫 How to reach me **iperalta@uri.edu**
 
