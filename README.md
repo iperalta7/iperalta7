@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isaiah Peralta</h1>
 <h3 align="center">A passionate student developer in the US</h3>
 
-- 🌱 I’m currently focusing on **Software Engineering and Web Development**. I hope to become a C++ master, but that might take me to the dark side. 
+- 🌱 I’m currently focusing on **Software Engineering and Cybersecurity **.
 
 - 📫 How to reach me **iperalta@uri.edu**
 
-- ⚡ Fun fact **I love to play volleyball, powerlift, and play counter-strike.**
+- ⚡ Fun fact **I love to play volleyball, lift weights, and play some video games on my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
